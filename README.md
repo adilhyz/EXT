@@ -1,0 +1,2 @@
+# EXT
+Hackbar (CyberFox Extensions)
